@@ -1,0 +1,1 @@
+cd ./bin/redis && start redis-server
